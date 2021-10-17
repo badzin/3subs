@@ -1,0 +1,2 @@
+# 3subs
+loadstring
